@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @paula-gherghinescu and I'm a PhD student at Universiy of Surrey where I study the evolution of galaxies.
+- 👀 I’m interested in Galactic Dynamics, Bayesian Stats, HMC, MCMC, cosmological simulations
+- 📫 p.gherghinescu@surrey.ac.uk
